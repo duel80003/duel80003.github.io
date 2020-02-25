@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/precache-manifest.d7af361cbfd484ad09727c48ba1ba39f.js"
+  "/precache-manifest.12ed7853c8528e79fcd31d86054cd14a.js"
 );
 
 workbox.core.setCacheNameDetails({prefix: "meal-map-ui"});
